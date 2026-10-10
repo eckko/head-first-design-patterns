@@ -1,3 +1,5 @@
+> Confirmed by the user, used for version 1.
+
 # Head First Design Patterns: chapter map for review
 
 **Book kind:** any other book (experimental). The ideas are the book's own (design patterns and principles). Each idea's HTRAB tag names the reading step the idea lets you practise, for example an idea that is the author's key claim practises `analytical/determining-an-authors-message/finding-the-propositions`. Where no step fits, the closest tag is used.
