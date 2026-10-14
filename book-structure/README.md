@@ -1,4 +1,4 @@
-> Version 2; kinds: architecture + has-code (chapters 1-13, Appendix A also technique-catalogue), expository (whole book). Built on version 1 with every id kept.
+> Version 3; kinds: architecture + has-code (chapters 1-13, Appendix A also technique-catalogue), expository (whole book). Built on versions 1 and 2 with every id kept; adds all 799 book pictures (encrypted) with alt text and 176 picture questions.
 
 # Head First Design Patterns: chapter map for review (quiz-advanced, version 2)
 
