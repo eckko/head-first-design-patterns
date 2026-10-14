@@ -44,6 +44,12 @@
    "idPrefix": "c01",
    "sourceParts": [
     "chapters/ch1.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "high",
+   "kindReason": "Teaches OO design patterns by forces, structure and consequences, with Java before/after code.",
+   "modifiers": [
+    "has-code"
    ]
   },
   {
@@ -57,7 +63,7 @@
     "Unpacking the WeatherData class",
     "What do we know so far?",
     "Taking a first, misguided SWAG at the Weather Station",
-    "What’s wrong with our implementation?",
+    "What\u2019s wrong with our implementation?",
     "Meet the Observer Pattern",
     "Publishers + Subscribers = Observer Pattern",
     "A day in the life of the Observer Pattern",
@@ -70,14 +76,14 @@
     "Designing the Weather Station",
     "Implementing the Weather Station",
     "Implementing the Subject interface in WeatherData",
-    "Now, let’s build those display elements",
+    "Now, let\u2019s build those display elements",
     "Power up the Weather Station",
-    "Using Java’s built-in Observer Pattern",
-    "How Java’s built-in Observer Pattern works",
+    "Using Java\u2019s built-in Observer Pattern",
+    "How Java\u2019s built-in Observer Pattern works",
     "Reworking the Weather Station with the built-in support",
     "Running the new code",
     "The dark side of java.util.Observable",
-    "Other places you’ll find the Observer Pattern in the JDK",
+    "Other places you\u2019ll find the Observer Pattern in the JDK",
     "And the code...",
     "The updated code, using lambda expressions",
     "Tools for your Design Toolbox"
@@ -91,6 +97,12 @@
    "idPrefix": "c02",
    "sourceParts": [
     "chapters/ch2.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "high",
+   "kindReason": "Teaches OO design patterns by forces, structure and consequences, with Java before/after code.",
+   "modifiers": [
+    "has-code"
    ]
   },
   {
@@ -104,7 +116,7 @@
     "The Open-Closed Principle",
     "Meet the Decorator Pattern",
     "Constructing a drink order with Decorators",
-    "Okay, here’s what we know so far...",
+    "Okay, here\u2019s what we know so far...",
     "The Decorator Pattern defined",
     "Decorating our Beverages",
     "Cubicle Conversation",
@@ -129,6 +141,12 @@
    "idPrefix": "c03",
    "sourceParts": [
     "chapters/ch3.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "high",
+   "kindReason": "Teaches OO design patterns by forces, structure and consequences, with Java before/after code.",
+   "modifiers": [
+    "has-code"
    ]
   },
   {
@@ -145,18 +163,18 @@
     "Reworking the PizzaStore class",
     "The Simple Factory defined",
     "Franchising the pizza store",
-    "We’ve seen one approach...",
-    "But you’d like a little more quality control...",
+    "We\u2019ve seen one approach...",
+    "But you\u2019d like a little more quality control...",
     "A framework for the pizza store",
     "Allowing the subclasses to decide",
-    "Let’s make a PizzaStore",
+    "Let\u2019s make a PizzaStore",
     "Declaring a factory method",
-    "Let’s see how it works: ordering pizzas with the pizza factory method",
+    "Let\u2019s see how it works: ordering pizzas with the pizza factory method",
     "So how do they order?",
-    "Let’s check out how these pizzas are really made to order...",
-    "We’re just missing one thing: PIZZA!",
-    "You’ve waited long enough. Time for some pizzas!",
-    "It’s finally time to meet the Factory Method Pattern",
+    "Let\u2019s check out how these pizzas are really made to order...",
+    "We\u2019re just missing one thing: PIZZA!",
+    "You\u2019ve waited long enough. Time for some pizzas!",
+    "It\u2019s finally time to meet the Factory Method Pattern",
     "The Creator classes",
     "The Product classes",
     "Another perspective: parallel class hierarchies",
@@ -192,6 +210,12 @@
    "idPrefix": "c04",
    "sourceParts": [
     "chapters/ch4.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "high",
+   "kindReason": "Teaches OO design patterns by forces, structure and consequences, with Java before/after code.",
+   "modifiers": [
+    "has-code"
    ]
   },
   {
@@ -222,6 +246,12 @@
    "idPrefix": "c05",
    "sourceParts": [
     "chapters/ch5.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "high",
+   "kindReason": "Teaches OO design patterns by forces, structure and consequences, with Java before/after code.",
+   "modifiers": [
+    "has-code"
    ]
   },
   {
@@ -231,10 +261,10 @@
    "pages": 23.9,
    "weight": 0.9,
    "sections": [
-    "Free hardware! Let’s check out the Remote Control...",
+    "Free hardware! Let\u2019s check out the Remote Control...",
     "Taking a look at the vendor classes",
     "Cubicle Conversation",
-    "Let’s study the interaction in a little more detail...",
+    "Let\u2019s study the interaction in a little more detail...",
     "The Objectville Diner roles and responsibilities",
     "From the Diner to the Command Pattern",
     "Our first command object",
@@ -246,7 +276,7 @@
     "Implementing the Remote Control",
     "Implementing the Commands",
     "Putting the Remote Control through its paces",
-    "Now, let’s check out the execution of our remote control test...",
+    "Now, let\u2019s check out the execution of our remote control test...",
     "Time to write that documentation...",
     "What are we doing?",
     "Time to QA that Undo button!",
@@ -275,6 +305,12 @@
    "idPrefix": "c06",
    "sourceParts": [
     "chapters/ch6.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "high",
+   "kindReason": "Teaches OO design patterns by forces, structure and consequences, with Java before/after code.",
+   "modifiers": [
+    "has-code"
    ]
   },
   {
@@ -288,7 +324,7 @@
     "Object-oriented adapters",
     "Test drive the adapter",
     "The Adapter Pattern explained",
-    "Here’s how the Client uses the Adapter",
+    "Here\u2019s how the Client uses the Adapter",
     "Adapter Pattern defined",
     "Object and class adapters",
     "Real-world adapters",
@@ -321,6 +357,12 @@
    "idPrefix": "c07",
    "sourceParts": [
     "chapters/ch7.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "high",
+   "kindReason": "Teaches OO design patterns by forces, structure and consequences, with Java before/after code.",
+   "modifiers": [
+    "has-code"
    ]
   },
   {
@@ -330,7 +372,7 @@
    "pages": 14.0,
    "weight": 1.0,
    "sections": [
-    "It’s time for some more caffeine",
+    "It\u2019s time for some more caffeine",
     "Whipping up some coffee and tea classes (in Java)",
     "And now the Tea...",
     "Sir, may I abstract your Coffee, Tea?",
@@ -338,22 +380,22 @@
     "Abstracting prepareRecipe()",
     "What have we done?",
     "Meet the Template Method",
-    "Let’s make some tea...",
+    "Let\u2019s make some tea...",
     "What did the Template Method get us?",
     "Template Method Pattern defined",
     "Hooked on Template Method...",
     "Using the hook",
-    "Let’s run the Test Drive",
+    "Let\u2019s run the Test Drive",
     "The Hollywood Principle",
     "The Hollywood Principle and Template Method",
     "Template Methods in the Wild",
     "Sorting with Template Method",
-    "We’ve got some ducks to sort...",
+    "We\u2019ve got some ducks to sort...",
     "What is compareTo()?",
     "Comparing Ducks and Ducks",
-    "Let’s sort some Ducks",
+    "Let\u2019s sort some Ducks",
     "The making of the sorting duck machine",
-    "Swingin’ with Frames",
+    "Swingin\u2019 with Frames",
     "Applets",
     "Tools for your Design Toolbox"
    ],
@@ -365,6 +407,12 @@
    "idPrefix": "c08",
    "sourceParts": [
     "chapters/ch8.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "high",
+   "kindReason": "Teaches OO design patterns by forces, structure and consequences, with Java before/after code.",
+   "modifiers": [
+    "has-code"
    ]
   },
   {
@@ -376,8 +424,8 @@
    "sections": [
     "Breaking News: Objectville Diner and Objectville Pancake House Merge",
     "Check out the Menu Items",
-    "Lou and Mel’s Menu implementations",
-    "What’s the problem with having two different menu representations?",
+    "Lou and Mel\u2019s Menu implementations",
+    "What\u2019s the problem with having two different menu representations?",
     "The Java-Enabled Waitress Specification",
     "What now?",
     "Can we encapsulate the iteration?",
@@ -386,7 +434,7 @@
     "Reworking the Diner Menu with Iterator",
     "Fixing up the Waitress code",
     "Testing our code",
-    "Here’s the test run...",
+    "Here\u2019s the test run...",
     "What have we done so far?",
     "What we have so far...",
     "Making some improvements...",
@@ -395,15 +443,15 @@
     "What does this get us?",
     "Iterator Pattern defined",
     "Single Responsibility",
-    "Taking a look at the Café Menu",
-    "Reworking the Café Menu code",
-    "Adding the Café Menu to the Waitress",
+    "Taking a look at the Caf\u00e9 Menu",
+    "Reworking the Caf\u00e9 Menu code",
+    "Adding the Caf\u00e9 Menu to the Waitress",
     "Breakfast, lunch AND dinner",
-    "Here’s the test run; check out the new dinner menu from the Café!",
+    "Here\u2019s the test run; check out the new dinner menu from the Caf\u00e9!",
     "What did we do?",
     "We decoupled the Waitress....",
     "... and we made the Waitress more extensible",
-    "But there’s more!",
+    "But there\u2019s more!",
     "Iterators and Collections",
     "Is the Waitress ready for prime time?",
     "Just when we thought it was safe...",
@@ -432,6 +480,12 @@
    "idPrefix": "c09",
    "sourceParts": [
     "chapters/ch9.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "high",
+   "kindReason": "Teaches OO design patterns by forces, structure and consequences, with Java before/after code.",
+   "modifiers": [
+    "has-code"
    ]
   },
   {
@@ -452,9 +506,9 @@
     "Defining the State interfaces and classes",
     "Implementing our State classes",
     "Reworking the Gumball Machine",
-    "Now, let’s look at the complete GumballMachine class...",
+    "Now, let\u2019s look at the complete GumballMachine class...",
     "Implementing more states",
-    "Let’s take a look at what we’ve done so far...",
+    "Let\u2019s take a look at what we\u2019ve done so far...",
     "The State Pattern defined",
     "We still need to finish the Gumball 1 in 10 game",
     "Finishing the game",
@@ -471,6 +525,12 @@
    "idPrefix": "c10",
    "sourceParts": [
     "chapters/ch10.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "high",
+   "kindReason": "Teaches OO design patterns by forces, structure and consequences, with Java before/after code.",
+   "modifiers": [
+    "has-code"
    ]
   },
   {
@@ -482,7 +542,7 @@
    "sections": [
     "Coding the Monitor",
     "Testing the Monitor",
-    "The role of the ‘remote proxy’",
+    "The role of the \u2018remote proxy\u2019",
     "Adding a remote proxy to the Gumball Machine monitoring code",
     "Remote methods 101",
     "Java RMI, the Big Picture",
@@ -504,7 +564,7 @@
     "Testing the CD Cover Viewer",
     "Things to try...",
     "What did we do?",
-    "Using the Java API’s Proxy to create a protection proxy",
+    "Using the Java API\u2019s Proxy to create a protection proxy",
     "The PersonBean implementation",
     "Five-minute drama: protecting subjects",
     "Big Picture: creating a Dynamic Proxy for the PersonBean",
@@ -526,6 +586,12 @@
    "idPrefix": "c11",
    "sourceParts": [
     "chapters/ch11.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "high",
+   "kindReason": "Teaches OO design patterns by forces, structure and consequences, with Java before/after code.",
+   "modifiers": [
+    "has-code"
    ]
   },
   {
@@ -538,7 +604,7 @@
     "Working together",
     "Duck reunion",
     "What did we do?",
-    "A duck’s eye view: the class diagram",
+    "A duck\u2019s eye view: the class diagram",
     "The King of Compound Patterns",
     "Meet the Model-View-Controller",
     "A closer look...",
@@ -549,24 +615,24 @@
     "Using MVC to control the beat...",
     "Meet the Java DJ View",
     "The controller is in the middle...",
-    "Let’s not forget about the model underneath it all...",
+    "Let\u2019s not forget about the model underneath it all...",
     "Putting the pieces together",
     "Building the pieces",
-    "Now let’s have a look at the concrete BeatModel class",
+    "Now let\u2019s have a look at the concrete BeatModel class",
     "The View",
     "Implementing the View",
     "Implementing the View, continued...",
     "Now for the Controller",
-    "And here’s the implementation of the controller",
+    "And here\u2019s the implementation of the controller",
     "Putting it all together...",
     "And now for a test run...",
     "Things to do",
     "Exploring Strategy",
     "Adapting the Model",
-    "Now we’re ready for a HeartController",
-    "And that’s it! Now it’s time for some test code...",
+    "Now we\u2019re ready for a HeartController",
+    "And that\u2019s it! Now it\u2019s time for some test code...",
     "MVC and the Web",
-    "Model 2: DJ’ing from a cell phone",
+    "Model 2: DJ\u2019ing from a cell phone",
     "The plan",
     "Step one: the model",
     "Step two: the controller servlet",
@@ -584,6 +650,12 @@
    "idPrefix": "c12",
    "sourceParts": [
     "chapters/ch12.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "high",
+   "kindReason": "Teaches OO design patterns by forces, structure and consequences, with Java before/after code.",
+   "modifiers": [
+    "has-code"
    ]
   },
   {
@@ -602,10 +674,10 @@
     "Keep it simple (KISS)",
     "You know you need a pattern when...",
     "Refactoring time is Patterns time!",
-    "If you don’t need it now, don’t do it now.",
+    "If you don\u2019t need it now, don\u2019t do it now.",
     "Your Mind on Patterns",
-    "Don’t forget the power of the shared vocabulary",
-    "Cruisin’ Objectville with the Gang of Four",
+    "Don\u2019t forget the power of the shared vocabulary",
+    "Cruisin\u2019 Objectville with the Gang of Four",
     "Your journey has just begun...",
     "The Patterns Zoo",
     "Annihilating evil with Anti-Patterns",
@@ -620,6 +692,12 @@
    "idPrefix": "c13",
    "sourceParts": [
     "chapters/ch13.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "medium",
+   "kindReason": "Discusses what a pattern is, choosing and keeping patterns, anti-patterns; more principle than structure.",
+   "modifiers": [
+    "has-code"
    ]
   },
   {
@@ -656,6 +734,13 @@
    "idPrefix": "appa",
    "sourceParts": [
     "chapters/chA.txt"
+   ],
+   "kind": "architecture",
+   "kindConfidence": "medium",
+   "kindReason": "Catalogue of nine further patterns, each with intent and structure, no worked chapter.",
+   "modifiers": [
+    "has-code",
+    "technique-catalogue"
    ]
   },
   {
@@ -673,7 +758,13 @@
    "idPrefix": "whole",
    "sourceParts": [
     "extract/book-text.txt"
-   ]
+   ],
+   "kind": "expository",
+   "kindConfidence": "high",
+   "kindReason": "Final unit that ties the book together is always expository.",
+   "modifiers": []
   }
- ]
+ ],
+ "excluded": "Cover, title page, dedication, praise, authors, how-to-use intro, acknowledgements, Appendix B (a closing note from the publisher), Appendix C (a promotional page), index, colophon, copyright.",
+ "grouping": "No grouping: each of the 13 chapters is one unit, Appendix A is one unit, plus the final whole-book unit."
 }
